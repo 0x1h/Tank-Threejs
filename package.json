@@ -1,0 +1,15 @@
+{
+  "name": "tank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "three-orbitcontrols": "^2.110.3"
+  }
+}
